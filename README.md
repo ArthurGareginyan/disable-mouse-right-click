@@ -9,7 +9,7 @@ On one of my websites, I have a pop-up page where I placed gallery with my copyr
 
 ## Usage
 
-Simply hook up this file on web page of your website where you want to disable the right-clicking of the mouse.
+Simply hook up this file on a web page of your website where you want to disable the right-clicking of the mouse.
 
 To use it inside HTML web page you just need to wrap in HTML tag `<script language="JavaScript"></script>` the code from the disable-mouse-right-click.js file.
 
