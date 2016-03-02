@@ -1,5 +1,7 @@
 # Disable mouse right click
 
+The JavaScript code that will prevent the default right menu from popping up when the right mouse is clicked.
+
 It makes sense to do everything you can to protect your copyrighted content. While there is no way to completely stop people from stealing your images, you can make it harder. Disabling right-clicking is one method you can use to deter casual theft.
 
 On one of my websites, I have a pop-up page where I placed gallery with my copyrighted images. I don’t want the user to see the menu thats get displayed with the mouse right click. So I created the HTML/JavaScript code that will prevent the default right menu from popping up when the right mouse is clicked on this pop-up page. Now I use it to stop surfers from easily stealing my copyrighted images from my website.
@@ -23,7 +25,7 @@ However I have to say that this should not be done generally because it limits u
 
 The right menu is there for a reason, and it should be left there. Many browser extensions add entries to the right click menu and the user should be able to use it in any page he visits.
 
-The following article better explains why this should not be done and what other actions can be taken to solve common related issues: [http://www.sitepoint.com/dont-disable-right-click/]()http://www.sitepoint.com/dont-disable-right-click/)
+The following article better explains why this should not be done and what other actions can be taken to solve common related issues: [http://www.sitepoint.com/dont-disable-right-click/](http://www.sitepoint.com/dont-disable-right-click/)
 
 PS: If really you cannot resist the urge to block it at least do not put a popup saying “no right click allowed”.
 
